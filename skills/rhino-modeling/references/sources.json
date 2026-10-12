@@ -1,0 +1,137 @@
+[
+  {
+    "id": "R01",
+    "url": "https://developer.rhino3d.com/guides/scripting/advanced-cli/",
+    "title": "Rhino - RhinoCode Command Line Interface",
+    "accessed": "2026-10-12",
+    "characters": 7582,
+    "sha256": "3ca5ea7c84aab24bf3b8878765043e7f0dca949f1ae84e5cdaa98a181559d0bc",
+    "status": "readable"
+  },
+  {
+    "id": "R02",
+    "url": "https://developer.rhino3d.com/guides/scripting/scripting-python/",
+    "title": "Rhino - Scripting: Python",
+    "accessed": "2026-10-12",
+    "characters": 5624,
+    "sha256": "13cb2558755237a531f07b32f1ae31fec48e92acf08a9f769a0b79743ebd6900",
+    "status": "readable"
+  },
+  {
+    "id": "R03",
+    "url": "https://developer.rhino3d.com/guides/rhinocommon/code-driven-file-io/",
+    "title": "Rhino - Code-Driven File IO",
+    "accessed": "2026-10-12",
+    "characters": 6134,
+    "sha256": "39f1120e4a1a344062b993b6043744e3b9262e87db1285f70053ddf1c92498aa",
+    "status": "readable"
+  },
+  {
+    "id": "R04",
+    "url": "https://docs.mcneel.com/rhino/8mac/help/en-us/fileio/stereolithography_stl_import_export.htm",
+    "title": "Stereolithography (.stl) import/export | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 5352,
+    "sha256": "3084b0c3b40389f75aa228d72c7cd22ee4a3b6f302b8fcfb472f4d7279919bea",
+    "status": "readable"
+  },
+  {
+    "id": "R05",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/documentproperties/units.htm",
+    "title": "Units properties | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 3827,
+    "sha256": "1f1c092fe61f96c72e88a46620f81f419bae0d8f51e9db4229965fa7b3510e57",
+    "status": "readable"
+  },
+  {
+    "id": "R07",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/showedges.htm",
+    "title": "ShowEdges | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 3309,
+    "sha256": "4bf19cb828e0d81ea1fdb63e43b30f97fce9fd69caa93977070c02b29604e914",
+    "status": "readable"
+  },
+  {
+    "id": "R08",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/zebra.htm",
+    "title": "Zebra | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 2983,
+    "sha256": "776a5319f266fc94224745abf878f1901ce04d29227310259625c356de7f9fca",
+    "status": "readable"
+  },
+  {
+    "id": "R10",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/loft.htm",
+    "title": "Loft | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 4942,
+    "sha256": "21770ab0481edab515aa990784e407076f0259195c37a56b12dec22a570babc9",
+    "status": "readable"
+  },
+  {
+    "id": "R11",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/sweep2.htm",
+    "title": "Sweep2 | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 4644,
+    "sha256": "b829bfa09c334e30e3b43f808129a9ca5fa45d555821dce42b972465383fc79f",
+    "status": "readable"
+  },
+  {
+    "id": "R12",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/blendsrf.htm",
+    "title": "BlendSrf | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 5466,
+    "sha256": "4cab12247ea7458dffac54ea0c2e70db0b814fc421ee7e41486d8546516ba698",
+    "status": "readable"
+  },
+  {
+    "id": "R13",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/booleanunion.htm",
+    "title": "BooleanUnion | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 6849,
+    "sha256": "2208f53d524974bb9b166e3928fba63e629cb8c5f5180fb222dc783eb7b89b1b",
+    "status": "readable"
+  },
+  {
+    "id": "R14",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/filletedge.htm",
+    "title": "FilletEdge | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 4282,
+    "sha256": "c2a766ffa777a4383d451d157d5da70658c08a966d175edb2abe7d7781ecf40b",
+    "status": "readable"
+  },
+  {
+    "id": "R15",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/commands/check.htm",
+    "title": "Check | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 6265,
+    "sha256": "da860b01c769713a54a5a77d539d91b29c3b997d83a5e6f816abfd1732ac7e89",
+    "status": "readable"
+  },
+  {
+    "id": "R16",
+    "url": "https://docs.mcneel.com/rhino/8/help/en-us/fileio/step_stp_import_export.htm",
+    "title": "STEP (.stp; .step) import/export | Rhino 3-D modeling",
+    "accessed": "2026-10-12",
+    "characters": 4311,
+    "sha256": "7e4ce8593aa569b57030be6b4cf439adfd60ff36a085369868b508519c4bb091",
+    "status": "readable"
+  },
+  {
+    "id": "R17",
+    "url": "https://developer.rhino3d.com/guides/scripting/scripting-gh-python/",
+    "title": "Rhino - Grasshopper Scripting: Python",
+    "accessed": "2026-10-12",
+    "characters": 39222,
+    "sha256": "5caca607d7afc0da5300f4f09aa8cbdd0b068076834ca5de9366f187e92e44d3",
+    "status": "readable"
+  }
+]
