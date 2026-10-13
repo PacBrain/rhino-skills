@@ -122,7 +122,7 @@
     "title": "BlendSrf | Rhino 3-D modeling",
     "reviewed": "2026-10-12",
     "status": "reviewed_official_page",
-    "applicability": "Rhino 8；更高连续性不保证整体形态",
+    "applicability": "Rhino 8；连续性与整体形态分别评价",
     "supports": [
       "BlendSrf 连续性、手柄/内部形状和局部下陷风险"
     ],
@@ -278,7 +278,7 @@
     "title": "ShrinkWrap",
     "reviewed": "2026-10-12",
     "status": "reviewed_official_page",
-    "applicability": "Rhino 8 新增功能；不是原始 NURBS 修复证明",
+    "applicability": "Rhino 8 新增功能；用于包裹网格重建",
     "supports": [
       "包裹网格、偏移/平滑/填洞的形态影响及设计微缝风险"
     ],
@@ -319,7 +319,7 @@
     "status": "reviewed_official_page",
     "applicability": "文档更新 2026-03-16；服务部署条件见 R28/R29",
     "supports": [
-      "无状态 REST、RhinoCommon 高级几何、GH 和客户端；不等于本地视口"
+      "无状态 REST、RhinoCommon 高级几何、GH 和客户端；本地显示使用 Rhino 视口"
     ],
     "reviewed_sections": "Compute Can; Compute Features",
     "evidence_level": "documentation_only"
