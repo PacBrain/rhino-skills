@@ -1,4 +1,5 @@
+# Optional OpenAI host metadata; the skill and CLI do not depend on this file.
 interface:
   display_name: "Rhino Modeling"
-  short_description: "Verified Rhino modeling, diagnostics, and CAD export"
+  short_description: "Rhino modeling guidance, diagnostics, and CAD export"
   default_prompt: "Use $rhino-modeling to model, inspect, and export this CAD project."
